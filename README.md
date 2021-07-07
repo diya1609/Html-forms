@@ -10,9 +10,9 @@ This is a basic demo of Html forms ...
 
 <form action="/action_page.php">
   <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="Hrishi"><br>
+  <input type="text" id="fname" name="fname" value="Diya"><br>
   <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname" value="Suthar"><br><br>
+  <input type="text" id="lname" name="lname" value="Tripathi"><br><br>
   <input type="submit" value="Submit">
 </form> 
 
